@@ -1,0 +1,5 @@
+﻿{  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "jujustukraft:item/spotted_leather"
+  }
+}

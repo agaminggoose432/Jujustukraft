@@ -1,0 +1,24 @@
+﻿{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "jujustukraft:spotted_leather"
+    },
+    "B": {
+      "item": "jujustukraft:handle"
+    },
+    "C": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "pattern": [
+    "CA ",
+    "ACA",
+    " AB"
+  ],
+  "result": {
+    "count": 1,
+    "id": "jujustukraft:wrapped_cleaver"
+  }
+}
